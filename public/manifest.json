@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Chrome Extension TypeScript Starter",
-  "description": "Chrome Extension, TypeScript, Visual Studio Code",
+  "name": "页面滚动插件",
+  "description": "可调节速度，对当前页面进行滚动，主要用于浏览文章用",
   "version": "1.0",
 
   "options_ui": {
